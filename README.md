@@ -1,10 +1,5 @@
 # MATH8800 — Project 2: Energy Consumption Forecasting
 
-**Author:** Ze Yu Jiang  
-**Date:** May 2026
-
----
-
 ## Overview
 
 Building energy consumption forecasting using the [ASHRAE Great Energy Predictor III](https://www.kaggle.com/c/ashrae-energy-prediction) dataset. It compares classical baseline methods against deep learning approaches (LSTM and Transformer) for predicting hourly meter readings across multiple building types and energy meter types.
